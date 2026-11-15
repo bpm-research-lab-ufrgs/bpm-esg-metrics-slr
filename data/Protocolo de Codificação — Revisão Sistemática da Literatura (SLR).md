@@ -133,4 +133,4 @@ Campos pré-preenchidos a partir da triagem (`CORPUS_CARACTERIZACAO`). Devem ape
 
 1. **Sem células vazias:** Nos campos analíticos, use sempre `None` ou `No` quando o critério não se aplicar.  
 2. **Critério conservador:** Em caso de dúvida entre dois níveis (ex.: `Level 2` vs. `Level 3` ou `High` vs. `Medium`), selecione o nível **inferior** e justifique em `Justification_Evidence`.  
-3. **Piloto de calibração:** Codifique os **11 primeiros estudos (10%)** e valide a aderência das categorias antes de extrair os demais.
+3. **Piloto de calibração:** Codifique os **20 primeiros estudos (18%)** e valide a aderência das categorias antes de extrair os demais.
