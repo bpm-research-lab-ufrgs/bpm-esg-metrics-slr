@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this dataset or replication package, please cite it using the metadata below."
+
+title: "BPM-ESG-Metrics-SLR: replication package and dataset"
+
+type: dataset
+
+authors:
+  - family-names: "Costa"
+    given-names: "Simone da Silva"
+  - family-names: "Thom"
+    given-names: "Lucineia Heloisa"
+
+version: "1.0"
+
+date-released: "2026-11-15"
+
+abstract: >
+  Replication package associated with a systematic literature review on
+  business process adherence to ESG, sustainability, and regulatory
+  requirements. The repository contains the final corpus of 110 studies,
+  extraction and coding data, database-specific search strategies,
+  and supporting materials.
+
+keywords:
+  - BPM
+  - ESG
+  - systematic literature review
+  - business process
+  - sustainability
+  - process compliance
+  - metrics
