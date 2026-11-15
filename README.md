@@ -21,3 +21,14 @@ Searches were conducted in July and August 2026, covering publications from
 
 Databases:
 Scopus, ACM Digital Library, IEEE Xplore, SciELO, SBC OpenLib and SpringerLink.
+
+## Replication package
+
+This repository contains:
+
+- `data/`: final corpus of 110 studies and extraction/coding data.
+- `search-strategy/`: base search string and database-specific search strategies.
+
+## Citation
+
+Citation metadata are provided in the `CITATION.cff` file.
